@@ -4,7 +4,7 @@
 
 🚀 Welcome to the Virtualization Assignment repository! 🚀
 
-This repository contains the resources and instructions for the virtualization assignment where you'll learn how to create a virtual machine using VirtualBox. The assignment is part of [YOUR COURSE/CLASS NAME] and aims to familiarize you with the basics of virtualization and how to set up a virtual machine environment.
+This repository contains the resources and instructions for the virtualization assignment where you'll learn how to create a virtual machine using VirtualBox. The assignment is part of [ITB/3rd Year] and aims to familiarize you with the basics of virtualization and how to set up a virtual machine environment.
 
 ## Video Demo
 
